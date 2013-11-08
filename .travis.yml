@@ -7,5 +7,5 @@ php:
 env:
   - DB=mysql
   
- before_script:
+before_script:
   - if [[ "$DB" == "mysql" ]]; then mysql -e "create database IF NOT EXISTS hello_world_test;" -uroot; fi
