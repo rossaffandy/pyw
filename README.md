@@ -3,4 +3,4 @@ pyw
 
 testing travis-ci
 
-https://travis-ci.org/rossaffandy/pyw.png
+[![Build Status](https://travis-ci.org/rossaffandy/pyw.png)](https://travis-ci.org/rossaffandy/pyw)
