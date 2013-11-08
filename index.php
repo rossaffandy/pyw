@@ -1,6 +1,6 @@
 <?php
 
-class testTest() {
+class HelloWorld() {
 
  public function __construct() {
  }
@@ -11,5 +11,5 @@ class testTest() {
  
 }
 
-$test = new testTest();
+$test = new HelloWorld();
 $test->hello;
